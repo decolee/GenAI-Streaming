@@ -25,3 +25,4 @@ Apos ativar o docker;
 ./kafka-console-consumer.sh --topic ingestion-topic --bootstrap-server localhost:9092
 ./kafka-console-consumer.sh --topic spark-output --bootstrap-server localhost:9092
 
+>>>> ME PROCURE PARA LINK COM CODIGO COMPLETO
